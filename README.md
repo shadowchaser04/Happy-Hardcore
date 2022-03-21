@@ -19,7 +19,7 @@ particular style.
 
 `Intro and Verse (32-64 bars) Breakdown (16-32 bars) Drop and Verse (32-64 bars) Breakdown (8-16 bars) Outro (16-32)`
 
-![hardcore](https://github.com/shadowchaser04/happy-hardcore/blob/master/Pictures/happy-hardcore-blueprint.png)
+![hardcore](https://github.com/shadowchaser04/happy-hardcore/blob/master/Pictures/happy-hardcore.png)
 
 Here is a snapshot of some well know tracks
 
